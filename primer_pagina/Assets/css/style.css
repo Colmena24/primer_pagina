@@ -1,0 +1,82 @@
+* {
+    padding: 0%;
+}
+body {
+    background-color: #2A2B2A;
+}
+
+footer{
+    text-align: center;
+}
+
+.formato_def {
+    border-color: black;
+    margin: 3%; 
+    border-radius: 5%;
+    border-style: dashed;
+    background-color: #82A3A1;
+}
+
+header {
+    background-color: #82A3A1;
+    border-color: rgb(90, 112, 112);
+    margin: 1%;
+    border-radius: 3%;
+    border-style: outset;
+    text-align: center;
+
+}
+p, .titulo{
+    text-align: center;
+}
+
+.txt_bienvenida {
+    margin: 1%;
+    font-size: 16pt;
+}
+
+#segundoparrafo {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(38, 38, 85);
+    font-size: 20px;
+}
+
+#span1 {
+    color:blue;    
+}
+
+#span2 {
+    color: darkgreen;
+}
+
+.form {
+    margin-left: 150px;
+    margin-top: 50px;
+}
+
+.tituloprin {
+    font-family: monospace;
+    font-size: 60pt;
+    font-style: oblique;
+    
+}
+
+.enlace_a_google {
+    font-family: cursive;
+    text-align: center;
+}
+
+#advertencia {
+    color: red;
+}
+
+.imagen {
+    position: relative;
+    left: 450px
+}
+
+.link_fixed {
+    position: fixed;
+    bottom: 0px;
+    text-align: center;
+}
